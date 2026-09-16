@@ -21,7 +21,7 @@ I build software, AI systems, and AI products — turning ideas into things peop
 Always learning. Always building.
 
 <p>
-  <img src="./assets/star.svg" width="16" height="16" align="absmiddle" alt="" />&nbsp;Total Stars&nbsp;<b><!--STAT:stars-->175<!--/STAT:stars--></b>
+  <img src="./assets/star.svg" width="16" height="16" align="absmiddle" alt="" />&nbsp;Total Stars&nbsp;<b><!--STAT:stars-->176<!--/STAT:stars--></b>
   &nbsp;&nbsp;&nbsp;
   <img src="./assets/followers.svg" width="16" height="16" align="absmiddle" alt="" />&nbsp;Followers&nbsp;<b><!--STAT:followers-->18<!--/STAT:followers--></b>
   &nbsp;&nbsp;&nbsp;
@@ -38,7 +38,7 @@ Always learning. Always building.
       <h3><a href="https://github.com/IvanCodesDev/software-certificate-skill">software-certificate-skill</a></h3>
       <p>Agent Skill that auto-generates software copyright application forms, user manuals, technical docs, and code materials.</p>
       <p>
-        <img src="./assets/star.svg" width="14" height="14" align="absmiddle" alt="" />&nbsp;<!--STAT:software-certificate-skill:stars-->145<!--/STAT:software-certificate-skill:stars-->
+        <img src="./assets/star.svg" width="14" height="14" align="absmiddle" alt="" />&nbsp;<!--STAT:software-certificate-skill:stars-->146<!--/STAT:software-certificate-skill:stars-->
         &nbsp;&nbsp;&nbsp;
         <img src="./assets/fork.svg" width="14" height="14" align="absmiddle" alt="" />&nbsp;<!--STAT:software-certificate-skill:forks-->10<!--/STAT:software-certificate-skill:forks-->
       </p>
