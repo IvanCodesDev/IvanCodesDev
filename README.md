@@ -23,7 +23,7 @@ Always learning. Always building.
 <p>
   <img src="./assets/star.svg" width="16" height="16" align="absmiddle" alt="" />&nbsp;Total Stars&nbsp;<b><!--STAT:stars-->177<!--/STAT:stars--></b>
   &nbsp;&nbsp;&nbsp;
-  <img src="./assets/followers.svg" width="16" height="16" align="absmiddle" alt="" />&nbsp;Followers&nbsp;<b><!--STAT:followers-->21<!--/STAT:followers--></b>
+  <img src="./assets/followers.svg" width="16" height="16" align="absmiddle" alt="" />&nbsp;Followers&nbsp;<b><!--STAT:followers-->24<!--/STAT:followers--></b>
   &nbsp;&nbsp;&nbsp;
   <img src="./assets/repo.svg" width="16" height="16" align="absmiddle" alt="" />&nbsp;Repos&nbsp;<b><!--STAT:repos-->10<!--/STAT:repos--></b>
 </p>
