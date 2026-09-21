@@ -21,9 +21,9 @@ I build software, AI systems, and AI products — turning ideas into things peop
 Always learning. Always building.
 
 <p>
-  <img src="./assets/star.svg" width="16" height="16" align="absmiddle" alt="" />&nbsp;Total Stars&nbsp;<b><!--STAT:stars-->181<!--/STAT:stars--></b>
+  <img src="./assets/star.svg" width="16" height="16" align="absmiddle" alt="" />&nbsp;Total Stars&nbsp;<b><!--STAT:stars-->182<!--/STAT:stars--></b>
   &nbsp;&nbsp;&nbsp;
-  <img src="./assets/followers.svg" width="16" height="16" align="absmiddle" alt="" />&nbsp;Followers&nbsp;<b><!--STAT:followers-->29<!--/STAT:followers--></b>
+  <img src="./assets/followers.svg" width="16" height="16" align="absmiddle" alt="" />&nbsp;Followers&nbsp;<b><!--STAT:followers-->28<!--/STAT:followers--></b>
   &nbsp;&nbsp;&nbsp;
   <img src="./assets/repo.svg" width="16" height="16" align="absmiddle" alt="" />&nbsp;Repos&nbsp;<b><!--STAT:repos-->10<!--/STAT:repos--></b>
 </p>
@@ -67,7 +67,7 @@ Always learning. Always building.
       <h3><a href="https://github.com/IvanCodesDev/OpenMathModel">OpenMathModel</a></h3>
       <p>AI agent for mathematical modeling — problem parsing, analysis, experiments, validation, and paper generation.</p>
       <p>
-        <img src="./assets/star.svg" width="14" height="14" align="absmiddle" alt="" />&nbsp;<!--STAT:OpenMathModel:stars-->4<!--/STAT:OpenMathModel:stars-->
+        <img src="./assets/star.svg" width="14" height="14" align="absmiddle" alt="" />&nbsp;<!--STAT:OpenMathModel:stars-->5<!--/STAT:OpenMathModel:stars-->
         &nbsp;&nbsp;&nbsp;
         <img src="./assets/fork.svg" width="14" height="14" align="absmiddle" alt="" />&nbsp;<!--STAT:OpenMathModel:forks-->2<!--/STAT:OpenMathModel:forks-->
       </p>
