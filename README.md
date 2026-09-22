@@ -21,7 +21,7 @@ I build software, AI systems, and AI products — turning ideas into things peop
 Always learning. Always building.
 
 <p>
-  <img src="./assets/star.svg" width="16" height="16" align="absmiddle" alt="" />&nbsp;Total Stars&nbsp;<b><!--STAT:stars-->182<!--/STAT:stars--></b>
+  <img src="./assets/star.svg" width="16" height="16" align="absmiddle" alt="" />&nbsp;Total Stars&nbsp;<b><!--STAT:stars-->183<!--/STAT:stars--></b>
   &nbsp;&nbsp;&nbsp;
   <img src="./assets/followers.svg" width="16" height="16" align="absmiddle" alt="" />&nbsp;Followers&nbsp;<b><!--STAT:followers-->28<!--/STAT:followers--></b>
   &nbsp;&nbsp;&nbsp;
@@ -58,7 +58,7 @@ Always learning. Always building.
       <h3><a href="https://github.com/IvanCodesDev/OmniSpeed">OmniSpeed</a></h3>
       <p>Global video speed controller — browser extension + desktop app that speeds up any player, up to 16×.</p>
       <p>
-        <img src="./assets/star.svg" width="14" height="14" align="absmiddle" alt="" />&nbsp;<!--STAT:OmniSpeed:stars-->6<!--/STAT:OmniSpeed:stars-->
+        <img src="./assets/star.svg" width="14" height="14" align="absmiddle" alt="" />&nbsp;<!--STAT:OmniSpeed:stars-->7<!--/STAT:OmniSpeed:stars-->
         &nbsp;&nbsp;&nbsp;
         <img src="./assets/fork.svg" width="14" height="14" align="absmiddle" alt="" />&nbsp;<!--STAT:OmniSpeed:forks-->1<!--/STAT:OmniSpeed:forks-->
       </p>
