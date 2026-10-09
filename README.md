@@ -21,7 +21,7 @@ I build software, AI systems, and AI products — turning ideas into things peop
 Always learning. Always building.
 
 <p>
-  <img src="./assets/star.svg" width="16" height="16" align="absmiddle" alt="" />&nbsp;Total Stars&nbsp;<b><!--STAT:stars-->189<!--/STAT:stars--></b>
+  <img src="./assets/star.svg" width="16" height="16" align="absmiddle" alt="" />&nbsp;Total Stars&nbsp;<b><!--STAT:stars-->190<!--/STAT:stars--></b>
   &nbsp;&nbsp;&nbsp;
   <img src="./assets/followers.svg" width="16" height="16" align="absmiddle" alt="" />&nbsp;Followers&nbsp;<b><!--STAT:followers-->28<!--/STAT:followers--></b>
   &nbsp;&nbsp;&nbsp;
@@ -47,7 +47,7 @@ Always learning. Always building.
       <h3><a href="https://github.com/IvanCodesDev/ForgeX">ForgeX</a></h3>
       <p>Physics-driven 3D printing simulator for slicing, thermal control, telemetry, and failure analytics.</p>
       <p>
-        <img src="./assets/star.svg" width="14" height="14" align="absmiddle" alt="" />&nbsp;<!--STAT:ForgeX:stars-->17<!--/STAT:ForgeX:stars-->
+        <img src="./assets/star.svg" width="14" height="14" align="absmiddle" alt="" />&nbsp;<!--STAT:ForgeX:stars-->18<!--/STAT:ForgeX:stars-->
         &nbsp;&nbsp;&nbsp;
         <img src="./assets/fork.svg" width="14" height="14" align="absmiddle" alt="" />&nbsp;<!--STAT:ForgeX:forks-->1<!--/STAT:ForgeX:forks-->
       </p>
