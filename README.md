@@ -38,7 +38,7 @@ Always learning. Always building.
       <h3><a href="https://github.com/IvanCodesDev/software-certificate-skill">software-certificate-skill</a></h3>
       <p>Agent Skill that auto-generates software copyright application forms, user manuals, technical docs, and code materials.</p>
       <p>
-        <img src="./assets/star.svg" width="14" height="14" align="absmiddle" alt="" />&nbsp;<!--STAT:software-certificate-skill:stars-->160<!--/STAT:software-certificate-skill:stars-->
+        <img src="./assets/star.svg" width="14" height="14" align="absmiddle" alt="" />&nbsp;<!--STAT:software-certificate-skill:stars-->161<!--/STAT:software-certificate-skill:stars-->
         &nbsp;&nbsp;&nbsp;
         <img src="./assets/fork.svg" width="14" height="14" align="absmiddle" alt="" />&nbsp;<!--STAT:software-certificate-skill:forks-->10<!--/STAT:software-certificate-skill:forks-->
       </p>
@@ -47,7 +47,7 @@ Always learning. Always building.
       <h3><a href="https://github.com/IvanCodesDev/ForgeX">ForgeX</a></h3>
       <p>Physics-driven 3D printing simulator for slicing, thermal control, telemetry, and failure analytics.</p>
       <p>
-        <img src="./assets/star.svg" width="14" height="14" align="absmiddle" alt="" />&nbsp;<!--STAT:ForgeX:stars-->18<!--/STAT:ForgeX:stars-->
+        <img src="./assets/star.svg" width="14" height="14" align="absmiddle" alt="" />&nbsp;<!--STAT:ForgeX:stars-->17<!--/STAT:ForgeX:stars-->
         &nbsp;&nbsp;&nbsp;
         <img src="./assets/fork.svg" width="14" height="14" align="absmiddle" alt="" />&nbsp;<!--STAT:ForgeX:forks-->1<!--/STAT:ForgeX:forks-->
       </p>
