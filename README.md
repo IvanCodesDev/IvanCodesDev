@@ -21,7 +21,7 @@ I build software, AI systems, and AI products — turning ideas into things peop
 Always learning. Always building.
 
 <p>
-  <img src="./assets/star.svg" width="16" height="16" align="absmiddle" alt="" />&nbsp;Total Stars&nbsp;<b><!--STAT:stars-->208<!--/STAT:stars--></b>
+  <img src="./assets/star.svg" width="16" height="16" align="absmiddle" alt="" />&nbsp;Total Stars&nbsp;<b><!--STAT:stars-->215<!--/STAT:stars--></b>
   &nbsp;&nbsp;&nbsp;
   <img src="./assets/followers.svg" width="16" height="16" align="absmiddle" alt="" />&nbsp;Followers&nbsp;<b><!--STAT:followers-->28<!--/STAT:followers--></b>
   &nbsp;&nbsp;&nbsp;
@@ -58,7 +58,7 @@ Always learning. Always building.
       <h3><a href="https://github.com/IvanCodesDev/OmniSpeed">OmniSpeed</a></h3>
       <p>Global video speed controller — browser extension + desktop app that speeds up any player, up to 16×.</p>
       <p>
-        <img src="./assets/star.svg" width="14" height="14" align="absmiddle" alt="" />&nbsp;<!--STAT:OmniSpeed:stars-->15<!--/STAT:OmniSpeed:stars-->
+        <img src="./assets/star.svg" width="14" height="14" align="absmiddle" alt="" />&nbsp;<!--STAT:OmniSpeed:stars-->21<!--/STAT:OmniSpeed:stars-->
         &nbsp;&nbsp;&nbsp;
         <img src="./assets/fork.svg" width="14" height="14" align="absmiddle" alt="" />&nbsp;<!--STAT:OmniSpeed:forks-->1<!--/STAT:OmniSpeed:forks-->
       </p>
@@ -67,7 +67,7 @@ Always learning. Always building.
       <h3><a href="https://github.com/IvanCodesDev/OpenMathModel">OpenMathModel</a></h3>
       <p>AI agent for mathematical modeling — problem parsing, analysis, experiments, validation, and paper generation.</p>
       <p>
-        <img src="./assets/star.svg" width="14" height="14" align="absmiddle" alt="" />&nbsp;<!--STAT:OpenMathModel:stars-->5<!--/STAT:OpenMathModel:stars-->
+        <img src="./assets/star.svg" width="14" height="14" align="absmiddle" alt="" />&nbsp;<!--STAT:OpenMathModel:stars-->6<!--/STAT:OpenMathModel:stars-->
         &nbsp;&nbsp;&nbsp;
         <img src="./assets/fork.svg" width="14" height="14" align="absmiddle" alt="" />&nbsp;<!--STAT:OpenMathModel:forks-->2<!--/STAT:OpenMathModel:forks-->
       </p>
