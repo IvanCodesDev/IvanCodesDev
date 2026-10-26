@@ -40,7 +40,7 @@ Always learning. Always building.
       <p>
         <img src="./assets/star.svg" width="14" height="14" align="absmiddle" alt="" />&nbsp;<!--STAT:software-certificate-skill:stars-->168<!--/STAT:software-certificate-skill:stars-->
         &nbsp;&nbsp;&nbsp;
-        <img src="./assets/fork.svg" width="14" height="14" align="absmiddle" alt="" />&nbsp;<!--STAT:software-certificate-skill:forks-->11<!--/STAT:software-certificate-skill:forks-->
+        <img src="./assets/fork.svg" width="14" height="14" align="absmiddle" alt="" />&nbsp;<!--STAT:software-certificate-skill:forks-->12<!--/STAT:software-certificate-skill:forks-->
       </p>
     </td>
     <td width="50%" valign="top">
